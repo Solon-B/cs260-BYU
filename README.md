@@ -42,7 +42,7 @@ I am going to use the required technologies in the following ways.
 
 **Login** - Register and login users. Credentials securely stored in the database.
 
-WebSocket: This will be realtime data sent when a player hits a mile marker. At the moment I'm thinking about every increase of ten points.
+**WebSocket**: This will be realtime data sent when a player hits a mile marker. At the moment I'm thinking about every increase of ten points.
 
 
 
