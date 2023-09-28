@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Tell browsers not to scale the viewport automatically -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SnakeKing HTML</title>
+    <link rel="icon" href="favicon.ico" />
+  </head>
+  <body>
+    <!-- Use header, main, and footer elements to give semantic structure -->
+    <header>
+      <h1>SnakeKing<sup></sup></h1>
+
+      <!-- Navigation elements -->
+
+      <hr />
+    </header>
+
+    <main>
+      <h1>Welcome to SnakeKing!</h1>
+      <p>Login to play</p>
+      <form method="get" action="play.html">
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Your Name" />
+   <br>
+       
+<form method="get" action="play.html">
+        <label for="name">Password</label>
+        <input type="text" id="name" placeholder="Your Password" />
+  <br>
+        <button 
+    <a href="https://mcmodi.click/difficulty">login</a>
+      
+    
+      </form>
+    </main>
+
+    <footer>
+      <hr />
+      <span class="text-reset">Created by Solon</span>
+      <br />
+      <a href="https://github.com/Solon-B/cs260-BYU/blob/main/">GitHub</a>
+    </footer>
+  </body>
+</html>
