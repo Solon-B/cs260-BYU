@@ -28,7 +28,9 @@ Choose a difficulty level (easy,medium,hard)
 ### Technologies:
 I am going to use the required technologies in the following ways.
 
-**HTML**: Uses correct HTML structure for application. Several  HTML pages. One for log in, one for choosing difficulty, one for actually playing and one for the scoreboard.
+**HTML**: Uses correct HTML structure for application. Several  HTML pages. One for log in, one for choosing difficulty, one for actually playing and one for the scoreboard. 
+
+
 
 **CSS**: Mainly making the separate pages look good and for the game play to be fun and cool.
 
@@ -43,6 +45,16 @@ I am going to use the required technologies in the following ways.
 **Login** - Register and login users. Credentials securely stored in the database.
 
 **WebSocket**: This will be realtime data sent when a player hits a mile marker. At the moment I'm thinking about every increase of ten points.
+
+### HTML deliverable
+For this deliverable I built out the structure of my application using HTML
+- **HTML pages** - Several HTML pages. One for log in (index.html), one for choosing difficulty (difficulty.html), one for actually playing (play.html)and one for the scoreboard(scores.html).
+- **Links** - I added the Difficulty page to the menu at the top of each page. add my git hub at the bottom. I have it so when you submit your name it takes you to the difficulty page then the submit linked to play.
+**Text** - I just changed the titile of things to snakeking
+**Longin** - the first page asks you to login with a grayed out "Your name here" that will desplay it above the game.
+**Images** - I changed the place holder photo to somtihng cool
+**Database** -  the idea that it will desplay the top highest score of the website on the score page and changed the colums for that a little 
+**Websocket** - it will show when people reach an increase of score of 10 and notify other players. 
 
 
 
