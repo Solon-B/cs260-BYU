@@ -61,7 +61,7 @@ For this deliverable I built out the structure of my application using HTML
 - **Navigation elements** - I added in the difficulty page and built the whole page with very nice colord buttons that link you to  the play page. set the github to my git. 
 - **Responsive to window resizing** - My game looks great on all window sizes and devices
 - **Application elements** - Used good contrast and whitespace 
-- **Application text content** - Consistent fonts alos changed the colors to colors i liked 
+- **Application text content** - Consistent fonts also changed the colors to colors i liked 
 - **Application images** -  I changed the ico file to relate to my game and to desplay as a place holder in for my game. 
 
 
