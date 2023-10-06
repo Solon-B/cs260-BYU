@@ -6,3 +6,4 @@ my websites ip is 54.84.66.217 and mcmodi.click will take you there aswell and t
 
 
 made my server secure my ip was set to 00 but not the ssh only https and http so i would time out and not give noraml erros. command s to insert adn then control o write :qw to exit than sudo service caddy restart 
+

@@ -1,7 +1,7 @@
 # SnakeKing
 ## Description deliverable
 ### Elevator pitch
-SnakeKing, the ultimate destination for classic gaming excitement! SnakeMaster brings back the nostalgia of the iconic snake game in a modern online platform. Challenge your reflexes and strategy as you guide your snake to devour food and grow longer. Compete with players from around the world for the top spot on the leaderboards and become the SnakeKing. SnakeKing is easy to pick up and play, making it perfect for a quick gaming session or hours of entertainment.
+SnakeKing, the ultimate destination for classic gaming excitement! SnakeKing brings back the nostalgia of the iconic snake game in a modern online platform. Challenge your reflexes and strategy as you guide your snake to devour food and grow longer. Compete with players from around the world for the top spot on the leaderboards and become the SnakeKing. SnakeKing is easy to pick up and play, making it perfect for a quick gaming session or hours of entertainment.
 ### Design 
 
 <img width="501" alt="Screenshot 2023-09-23 at 4 25 38 PM" src="https://github.com/Solon-B/cs260-BYU/assets/145093586/84e6c245-085a-413a-8944-01cf7974ace3">
@@ -50,11 +50,11 @@ I am going to use the required technologies in the following ways.
 For this deliverable I built out the structure of my application using HTML
 - **HTML pages** - Several HTML pages. One for log in (index.html), one for choosing difficulty (difficulty.html), one for actually playing (play.html)and one for the scoreboard(scores.html).
 - **Links** - I added the Difficulty page to the menu at the top of each page. add my git hub at the bottom. I have it so when you submit your name it takes you to the difficulty page then the submit linked to play.
-**Text** - I just changed the titile of things to snakeking
-**Longin** - the first page asks you to login with a grayed out "Your name here" that will desplay it above the game.
-**Images** - I changed the place holder photo to somtihng cool
-**Database** -  the idea that it will desplay the top highest score of the website on the score page and changed the colums for that a little 
-**Websocket** - it will show when people reach an increase of score of 10 and notify other players. 
+- **Text** - I just changed the titile of things to snakeking
+- **Longin** - the first page asks you to login with a grayed out "Your name here" that will desplay it above the game.
+- **Images** - I changed the place holder photo to somtihng cool
+- **Database** -  the idea that it will desplay the top highest score of the website on the score page and changed the colums for that a little.
+- **Websocket** - it will show when people reach an increase of score of 10 and notify other players. 
 
 
 
