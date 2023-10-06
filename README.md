@@ -56,6 +56,13 @@ For this deliverable I built out the structure of my application using HTML
 - **Database** -  the idea that it will desplay the top highest score of the website on the score page and changed the colums for that a little.
 - **Websocket** - it will show when people reach an increase of score of 10 and notify other players. 
 
+### CSS deliverable
+- **Header, footer, and main content body**
+- **Navigation elements** - I added in the difficulty page and built the whole page with very nice colord buttons that link you to  the play page. set the github to my git. 
+- **Responsive to window resizing** - My game looks great on all window sizes and devices
+- **Application elements** - Used good contrast and whitespace 
+- **Application text content** - Consistent fonts alos changed the colors to colors i liked 
+- **Application images** -  I changed the ico file to relate to my game and to desplay as a place holder in for my game. 
 
 
 
