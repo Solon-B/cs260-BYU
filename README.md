@@ -65,4 +65,10 @@ For this deliverable I built out the structure of my application using HTML
 - **Application images** -  I changed the ico file to relate to my game and to desplay as a place holder in for my game. 
 
 
+### JavaScript deliverable
+For this deliverable I implemented by JavaScript so that the application works. I also added placeholders for future technology.
+- **Login** - You can now put in a username and once you press the pretty Login button it will take you to choose what difficulty you want to play on 
+- **database** - it will now actuly save your name and desplay your name when playing aswell as a working score board.
+- **WebSocket** - I made a similar game chat to simon thats just a place holder for a chat that will tell you if someone reaches a increase of 10 points.
+- **Application logic** - You can now play the snake game aswell as the difficulty bottons change the difficulty by changing the speed of the snake all still update the score board. with a reset button that resets the game.  
 
