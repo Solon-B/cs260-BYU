@@ -72,3 +72,9 @@ For this deliverable I implemented by JavaScript so that the application works. 
 - **WebSocket** - I made a similar game chat to simon thats just a place holder for a chat that will tell you if someone reaches a increase of 10 points.
 - **Application logic** - You can now play the snake game aswell as the difficulty bottons change the difficulty by changing the speed of the snake all still update the score board. with a reset button that resets the game.  
 
+### Service deliverable 
+The about page gives photos and quotes 
+- **Node.js/Express HTTP service** - done!
+- **Static middleware for frontend** - done!
+- **Backend service endpoints** - Placeholders for login that stores the current user on the server.
+- **Frontend calls service endpoints** -  I did this using the fetch function.
