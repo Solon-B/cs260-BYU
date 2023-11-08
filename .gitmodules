@@ -1,10 +1,13 @@
 [submodule "simon-css"]
     path = simon-css
     url = https://github.com/Solon-B/simon-css.git
+
 [submodule "simon-javascript"]
     path = simon-javascript
     url = https://github.com/Solon-B/simon-javascript.git
+
 [submodule "simon-service"]
     path = simon-service
     url = https://github.com/Solon-B/simon-service.git
+
 
