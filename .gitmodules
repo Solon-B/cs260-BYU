@@ -1,13 +1,3 @@
-[submodule "simon-css"]
-    path = simon-css
-    url = https://github.com/Solon-B/simon-css.git
-
-[submodule "simon-javascript"]
-    path = simon-javascript
-    url = https://github.com/Solon-B/simon-javascript.git
-
-[submodule "simon-service"]
-    path = simon-service
-    url = https://github.com/Solon-B/simon-service.git
-
-
+[submodule "cs260-BYU"]
+	path = cs260-BYU
+	url = https://github.com/Solon-B/cs260-BYU.git
